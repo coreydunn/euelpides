@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<upstream>
+<remote-id type="github">GNS3/vpcs</remote-id>
+</upstream>
+<maintainer type="project">
+<email>grossmj@gns3.net</email>
+</maintainer>
+</pkgmetadata>
